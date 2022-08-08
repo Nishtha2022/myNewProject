@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/twoWayDataBinding.iml" filepath="$PROJECT_DIR$/.idea/modules/twoWayDataBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/twoWayDataBinding.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
